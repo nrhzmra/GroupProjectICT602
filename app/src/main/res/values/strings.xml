@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HealthFinder</string>
+    <string name="profile_name">Profile</string>
+    <string name="current">Current Location</string>
+    <string name="nearby">Nearby Hospital/Clinic</string>
+    <string name="about">About Us</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="hyperlink">Copyright ©️ 2022 RCS2405A CS240. All rights reserved.
+        <a href="https://github.com/Nor348303/GroupProjectICT602">ICT602 Group Project</a></string>
+</resources>
